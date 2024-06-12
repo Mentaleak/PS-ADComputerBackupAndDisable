@@ -1,5 +1,6 @@
 # PS-ADComputerBackupAndDisable
-This Script scans AD for Computer Accounts that haven't been used in 365 days.
+This Script scans AD for Computer Accounts that haven't been used in (365) days. Then it allows the user to choose which ones you would like to backup the laps and bitlocker data for. Afterward you are given the option to disable them and move them to the disabled OU
+![image](https://github.com/Mentaleak/PS-ADComputerBackupAndDisable/assets/22431171/49d3ab80-3340-4b28-aeeb-cf926c1beb34)
 
 ## Configurable Variables
 
